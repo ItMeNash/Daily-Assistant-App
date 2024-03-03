@@ -1,16 +1,2 @@
-# daily_assistant_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Daily-Assistant-App
+This repo is for personal android mobile app named Daily Assistant App. The function of the app is to help user with daily activity reminder such as memo, grocery list, alarm, meeting schedule and more. 
